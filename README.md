@@ -1,7 +1,7 @@
 # Link:
-[Liferay-Reactjs-Portlet-Axios-Yoeman](https://www.linkedin.com/pulse/how-build-react-component-liferay-dxp-paul-towers)
-[Liferay Theme Color Schemes](http://www.liferayui.com/color-schemes-in-liferay-theme)
-[Liferay Theme Color SchemesLiferay theme color](https://asbnotebook.com/2017/05/01/liferay-theme-color-schemes)
+* [Liferay-Reactjs-Portlet-Axios-Yoeman](https://www.linkedin.com/pulse/how-build-react-component-liferay-dxp-paul-towers)
+* [Liferay Theme Color Schemes](http://www.liferayui.com/color-schemes-in-liferay-theme)
+* [Liferay Theme Color SchemesLiferay theme color](https://asbnotebook.com/2017/05/01/liferay-theme-color-schemes)
 # Steps to create reactjs based portlet in liferay
 This project leverages the Yeoman generators for Liferay DXP and Portal CE projects, to start with we need to install Yeoman globally with the following command.
 1. npm install -g yo
