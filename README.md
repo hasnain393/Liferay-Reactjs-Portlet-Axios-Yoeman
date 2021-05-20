@@ -30,3 +30,17 @@ If you now go to your Liferay instance, login and navigate to a page where you w
 
 Below you can see our component called "React Gallery" and how it currently renders on the page (It is currently rendering the sample code created by the Liferay Generator).
 ![react-portlet](https://user-images.githubusercontent.com/56108097/105340225-a0f4ff00-5c03-11eb-856e-75af7978fe6e.png)
+
+![SERVICE-BUILDER](https://user-images.githubusercontent.com/56108097/119019461-dabff180-b9ba-11eb-8375-4212dea647c0.png)
+
+![Service Access Policy](https://user-images.githubusercontent.com/56108097/119021149-b2d18d80-b9bc-11eb-925e-9bbcb07a68d5.jpg)
+
+![Student Service Access Policy](https://user-images.githubusercontent.com/56108097/119021166-b5cc7e00-b9bc-11eb-8d8d-f1dc5fbc77cc.png)
+
+![POST-AUTHORIZATION](https://user-images.githubusercontent.com/56108097/119020214-997c1180-b9bb-11eb-97ec-f9f5c63ec95d.jpg)
+
+![POST-HEADER](https://user-images.githubusercontent.com/56108097/119019535-e9a6a400-b9ba-11eb-8e14-24ec20ae4f0e.png)
+
+![POST-BODY](https://user-images.githubusercontent.com/56108097/119019768-296d8b80-b9bb-11eb-89b1-61b5d3c0539a.png)
+
+![GET](https://user-images.githubusercontent.com/56108097/119020726-350d8200-b9bc-11eb-8805-ba0d7b00720c.jpg)
