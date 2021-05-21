@@ -44,3 +44,12 @@ Below you can see our component called "React Gallery" and how it currently rend
 ![POST-BODY](https://user-images.githubusercontent.com/56108097/119019768-296d8b80-b9bb-11eb-89b1-61b5d3c0539a.png)
 
 ![GET](https://user-images.githubusercontent.com/56108097/119020726-350d8200-b9bc-11eb-8805-ba0d7b00720c.jpg)
+
+![GET](https://user-images.githubusercontent.com/56108097/119148083-cb4bb180-ba69-11eb-96b1-bd7e5941aea6.jpg)
+
+![DELETE](https://user-images.githubusercontent.com/56108097/119148063-c686fd80-ba69-11eb-9c3c-32217128fa73.png)
+
+![API/JSONWS-POST](https://user-images.githubusercontent.com/56108097/119148097-cedf3880-ba69-11eb-8156-da98c4b17a5d.jpg)
+
+![Javasxript|CMD|POSTMAN](https://user-images.githubusercontent.com/56108097/119148910-98ee8400-ba6a-11eb-8e65-0ae0a96efa4c.jpg)
+
